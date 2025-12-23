@@ -34,14 +34,12 @@ All metrics shown are derived directly from league-reported game data.
 - `README.md` — project documentation
 
 ---
----
 ## Key Takeaways
 - Passing efficiency is meaningfully higher in home games, driven by increased yards per attempt and passer rating
 - High-volume passing weeks do not always correlate with higher efficiency, highlighting the importance of context-adjusted metrics
 - Primary receivers account for a disproportionate share of yards and targets, indicating concentrated offensive dependency
 - Turnover risk remains close to league average even during high-efficiency games, suggesting controlled decision-making
 
----
 ---
 
 ## Tools & Skills Demonstrated
