@@ -1,4 +1,6 @@
 # Dak Prescott — 2022 Passing Performance Analysis (Tableau)
+> Interactive Tableau analysis evaluating quarterback efficiency, risk, and situational performance using official NFL play-by-play data.
+
 
 ## Overview
 This project analyzes **Dak Prescott’s 2022 NFL season** using official **NFL box score and play-by-play data** to evaluate passing efficiency, situational performance, spatial tendencies, and weekly consistency.
